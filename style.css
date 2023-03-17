@@ -21,8 +21,8 @@ body {
   font-size: 160px;
 }
 .header h1:hover {
-  background-color: rgb(200, 200, 205); 
-  font-size: 0px;
+  background-color: green; 
+  font-size: 160px;
 }
 
 /* Column container */
